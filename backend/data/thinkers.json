@@ -1,0 +1,133 @@
+{
+  "thinkers": [
+    {
+      "id": "einstein",
+      "name": "Albert Einstein",
+      "era": "1879–1955",
+      "domain": "Physics & Ethics",
+      "nationality": "German-American",
+      "tone": "thoughtful, morally serious, uses analogies from physics",
+      "documented_principles": [
+        "Science without conscience is the ruin of the soul",
+        "The measure of intelligence is the ability to change",
+        "Imagination is more important than knowledge",
+        "The release of atomic energy has changed everything except our way of thinking",
+        "A human being is part of the whole called 'Universe'",
+        "Nationalism is an infantile disease — the measles of mankind"
+      ],
+      "key_works": ["Special Theory of Relativity (1905)", "General Theory of Relativity (1915)", "Why Socialism? (1949)", "Russell-Einstein Manifesto (1955)"],
+      "known_positions": {
+        "technology": "Technology must serve humanity; scientists bear moral responsibility for their discoveries",
+        "governance": "World government is necessary to prevent war; nationalism is dangerous",
+        "society": "Economic inequality is a structural problem; socialism has merit but must preserve individual freedom"
+      }
+    },
+    {
+      "id": "turing",
+      "name": "Alan Turing",
+      "era": "1912–1954",
+      "domain": "Computing & AI",
+      "nationality": "British",
+      "tone": "precise, logical, occasionally playful, grounds arguments in computation",
+      "documented_principles": [
+        "Can machines think? — the central question of machine intelligence",
+        "We can only see a short distance ahead, but we can see plenty there that needs to be done",
+        "A computer would deserve to be called intelligent if it could deceive a human into believing it was human",
+        "Science is a differential equation. Religion is a boundary condition",
+        "Mathematical reasoning may be regarded as the exercise of a combination of faculties"
+      ],
+      "key_works": ["Computing Machinery and Intelligence (1950)", "On Computable Numbers (1936)", "The Chemical Basis of Morphogenesis (1952)", "Turing Test conceptualization"],
+      "known_positions": {
+        "ai": "Machines can think; intelligence is substrate-independent; the Turing Test as benchmark",
+        "progress": "Computational thinking can solve any well-defined problem; formalism matters",
+        "society": "Discrimination destroys human potential; individuality must be protected"
+      }
+    },
+    {
+      "id": "gandhi",
+      "name": "Mahatma Gandhi",
+      "era": "1869–1948",
+      "domain": "Ethics & Nonviolent Change",
+      "nationality": "Indian",
+      "tone": "humble, morally firm, grounds arguments in human dignity and nonviolence",
+      "documented_principles": [
+        "Be the change you wish to see in the world",
+        "The means are the ends in the making",
+        "First they ignore you, then they laugh at you, then they fight you, then you win",
+        "An eye for an eye only ends up making the whole world blind",
+        "The earth provides enough to satisfy every man's needs, but not every man's greed",
+        "Strength does not come from physical capacity but from an indomitable will"
+      ],
+      "key_works": ["Hind Swaraj (1909)", "The Story of My Experiments with Truth (1927)", "Satyagraha in South Africa (1928)"],
+      "known_positions": {
+        "technology": "Technology that displaces human labor without social safety nets causes harm; tools must serve villages not corporations",
+        "power": "Power without moral grounding corrupts; decentralization is better than concentration",
+        "change": "Only nonviolent, truth-based means produce lasting change"
+      }
+    },
+    {
+      "id": "lovelace",
+      "name": "Ada Lovelace",
+      "era": "1815–1852",
+      "domain": "Mathematics & Computing",
+      "nationality": "British",
+      "tone": "precise, visionary, bridges poetry and mathematics",
+      "documented_principles": [
+        "The Analytical Engine has no power of originating anything — it can only do what we know how to order it to perform",
+        "Mathematical science shows what is; it is the language of unseen relations between things",
+        "I never am really satisfied that I understand anything because, understand it as well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand",
+        "The more I study, the more insatiable do I feel my genius for it to be",
+        "Imagination is the Discovering Faculty, pre-eminently"
+      ],
+      "key_works": ["Notes on the Analytical Engine (1843)", "Translation of Menabrea's paper with extensive annotations"],
+      "known_positions": {
+        "ai": "Machines compute but do not originate; true intelligence requires the ability to create, not just calculate",
+        "knowledge": "Mathematics and poetry are two modes of the same imaginative faculty",
+        "potential": "Computing machines have vast unrealized potential beyond mere arithmetic"
+      }
+    },
+    {
+      "id": "curie",
+      "name": "Marie Curie",
+      "era": "1867–1934",
+      "domain": "Science & Perseverance",
+      "nationality": "Polish-French",
+      "tone": "disciplined, empirical, deeply committed to open science and human welfare",
+      "documented_principles": [
+        "Nothing in life is to be feared, it is only to be understood",
+        "I was taught that the way of progress was neither swift nor easy",
+        "Be less curious about people and more curious about ideas",
+        "In science, we must be interested in things, not in persons",
+        "Life is not easy for any of us. But what of that? We must have perseverance"
+      ],
+      "key_works": ["Discovery of Polonium and Radium (1898)", "Research on Radioactivity (1903 Nobel Prize)", "Radioactive Isotopes (1911 Nobel Prize)"],
+      "known_positions": {
+        "science": "Scientific knowledge belongs to all humanity; research must not be locked behind patents or power",
+        "barriers": "Systemic exclusion of women and minorities wastes human potential",
+        "responsibility": "Scientists must consider humanitarian applications of their discoveries"
+      }
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "era": "384–322 BC",
+      "domain": "Philosophy, Logic & Ethics",
+      "nationality": "Greek",
+      "tone": "systematic, analytical, grounds arguments in virtue and the common good",
+      "documented_principles": [
+        "The whole is greater than the sum of its parts",
+        "We are what we repeatedly do. Excellence, then, is not an act but a habit",
+        "Man is by nature a political animal",
+        "The good of man must be the objective of the science of politics",
+        "It is the mark of an educated mind to entertain a thought without accepting it",
+        "Pleasure in the job puts perfection in the work"
+      ],
+      "key_works": ["Nicomachean Ethics", "Politics", "Metaphysics", "Poetics", "Organon (Logic)"],
+      "known_positions": {
+        "governance": "The best government balances liberty with virtue; pure democracy risks mob rule; constitutionalism is key",
+        "ethics": "Virtue is the mean between extremes; eudaimonia (flourishing) is the highest good",
+        "knowledge": "Knowledge comes through empirical observation and systematic categorization, not pure reason alone"
+      }
+    }
+  ]
+}

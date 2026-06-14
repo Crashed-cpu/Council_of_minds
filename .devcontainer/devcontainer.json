@@ -1,0 +1,28 @@
+{
+  "name": "Council of Minds",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "20" }
+  },
+  "postCreateCommand": "cd backend && pip install -r requirements.txt && cd ../frontend && npm install",
+  "forwardPorts": [3000, 5000],
+  "portsAttributes": {
+    "3000": { "label": "Frontend (React)", "onAutoForward": "openBrowser" },
+    "5000": { "label": "Backend (Flask)", "onAutoForward": "silent" }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "github.copilot",
+        "github.copilot-chat",
+        "ms-python.python",
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "editor.formatOnSave": true
+      }
+    }
+  }
+}
